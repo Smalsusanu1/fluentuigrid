@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "fluentuigrid-client-side-solution",
+    "id": "0995cce1-d8a3-413a-81f6-f7b56be29d43",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.15.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "fluentuigrid description"
+      },
+      "longDescription": {
+        "default": "fluentuigrid description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "fluentuigrid Feature",
+        "description": "The feature that activates elements of the fluentuigrid solution.",
+        "id": "fce06c8e-3184-4fea-9576-81656e786fb7",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/fluentuigrid.sppkg"
+  }
+}

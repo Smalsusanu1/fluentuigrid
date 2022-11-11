@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "fluentuigrid",
+    "libraryId": "0995cce1-d8a3-413a-81f6-f7b56be29d43",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "fluentuigrid",
+    "solutionShortDescription": "fluentuigrid description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
